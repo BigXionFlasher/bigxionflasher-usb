@@ -1,3 +1,6 @@
+# Main executable
+bigXionFlasher
+
 # Object files
 *.o
 *.ko
@@ -31,3 +34,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Project files
+.cproject
+.project
+.settings/
