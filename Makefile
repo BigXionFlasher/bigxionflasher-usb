@@ -1,7 +1,9 @@
 #
 # Makefile for BigXionFlasher for Linux and Windows (MinGW)
 # Copyright (c) 2011-2017 by Thomas König <info@bigxionflasher.org>.
-# All rights reserved.
+# All rights reserved. Distributed under the MIT software license,
+# see the accompanying file LICENSE or
+# https://opensource.org/licenses/GPL-3.0
 #
 
 TINY_CAN_API = tinycan

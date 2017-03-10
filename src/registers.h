@@ -1,7 +1,9 @@
 /* registers.h
  * ====================================================================
  * Copyright (c) 2011-2017 by Thomas König <info@bigxionflasher.org>.
- * All rights reserved.
+ * All rights reserved. Distributed under the MIT software license,
+ * see the accompanying file LICENSE or
+ * https://opensource.org/licenses/GPL-3.0
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
