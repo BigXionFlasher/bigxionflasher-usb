@@ -35,6 +35,9 @@ bigXionFlasher
 *.dSYM/
 *.su
 
+# Directories
+obj/
+
 # Project files
 .cproject
 .project
